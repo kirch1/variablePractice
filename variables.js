@@ -7,3 +7,5 @@ var birthYear = 1990
 var isAdmin = false
 var likesPizza = true
 var likesCoffee = true
+
+var sentence = `${firstName} ${lastName} is a Turing student.`
