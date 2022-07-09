@@ -9,3 +9,10 @@ var likesPizza = true
 var likesCoffee = true
 
 var sentence = `${firstName} ${lastName} is a Turing student.`
+
+email = 'kirchman.jason@gmail.com'
+
+console.log(sentence)
+console.log(email)
+console.log(likesPizza);
+console.log(likesCoffee);
